@@ -1,6 +1,6 @@
 <div>
     <a href="https://luanmachadoyt.github.io/Luan-Machado" target="_blank">
-    <img style="border-radius: 15px" src="https://github.com/luanmachadoyt/luanmachadoyt/blob/cobrinha/Banner.png?raw=true" alt="minha foto" />
+    <img style="border-radius: 15px" src="https://github.com/machadoluan/machadoluan/blob/main/Banner.png?raw=true" alt="minha foto" />
     </a>
 </div>
 
