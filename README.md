@@ -4,23 +4,26 @@
     </a>
 </div>
 
-<h3>🎈Olá, prazer me chamo Luan! Eu comecei na area de programação com 16 anos e agora eu tenho 17. Curto muito area de tecnologia trabalho com Design, UI, Front-end. Caso queira me seguir será um prazer ter a sua presença aqui comigo!😁</h3></br>
+<h3>Olá, meu nome é Luan. Tenho 17 anos. Moro no estado do Rio Grande do Sul, Brasil. Tenho conhecimento com JavaScript, Html, Css, UI/UX Design e estudo Kotlin para desenvolvimento de apps.</h3></br>
 
 ##
 
 <h4> Aqui estão as linguagens utilizadas no meu dia a dia</h4>
 
-<a href=""><img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" /></a>
-<img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-<img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin" alt="" />
+<a href=""><img style="width: 35px" src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="" /></a>
+<img style="width: 35px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="" />
 <img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
+<img style="width: 35px" src="https://img.icons8.com/?size=80&id=bGD8ChgdMIJV&format=png" alt="" />
+<img style="width: 35px" src="https://img.icons8.com/?size=48&id=13441&format=png" alt="" />
+
 
 
 <h4> Principais ferramentas utilizadas no meu dia a dia</h4>
 <div style="display: inline_block"><br>
 <a href=""><img style="width: 40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="" /></a>
 <img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="" />
-<img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg" alt="" />
+<img style="width: 35px" src="https://img.icons8.com/?size=48&id=63785&format=png" alt="" />
+<img style="width: 35px" src="https://img.icons8.com/?size=48&id=04OFrkjznvcd&format=png" alt="" />
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:15%;" src="https://avatars.githubusercontent.com/u/94332377?v=4">
   
 </div>
@@ -37,4 +40,3 @@
   <a href="https://www.linkedin.com/in/luan-de-almeida-machado-9789721b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
