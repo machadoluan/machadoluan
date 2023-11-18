@@ -24,6 +24,7 @@
 <img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="" />
 <img style="width: 35px" src="https://img.icons8.com/?size=48&id=63785&format=png" alt="" />
 <img style="width: 35px" src="https://img.icons8.com/?size=48&id=04OFrkjznvcd&format=png" alt="" />
+<img style="width: 35px" src="https://img.icons8.com/?size=48&id=61466&format=png" alt="" />
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:15%;" src="https://avatars.githubusercontent.com/u/94332377?v=4">
   
 </div>
