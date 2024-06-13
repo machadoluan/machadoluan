@@ -4,40 +4,40 @@
     </a>
 </div>
 
-<h3>Olá, meu nome é Luan. Tenho 17 anos. Moro no estado do Rio Grande do Sul, Brasil. Tenho conhecimento com JavaScript, Html, Css, UI/UX Design e estudo Kotlin para desenvolvimento de apps.</h3></br>
+<h2>Olá, meu nome é Luan</h2>
+<p>Tenho 18 anos e atualmente trabalho com desenvolvimento front-end. Meus principais conhecimentos incluem:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Angular</li>
+  <li>Node.js</li>
+  <li>Figma</li>
+</ul>
 
 ##
 
-<h4> Aqui estão as linguagens utilizadas no meu dia a dia</h4>
-
-<a href=""><img style="width: 35px" src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="" /></a>
-<img style="width: 35px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="" />
-<img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-<img style="width: 35px" src="https://img.icons8.com/?size=80&id=bGD8ChgdMIJV&format=png" alt="" />
-<img style="width: 35px" src="https://img.icons8.com/?size=48&id=13441&format=png" alt="" />
-
-
-
 <h4> Principais ferramentas utilizadas no meu dia a dia</h4>
 <div style="display: inline_block"><br>
-<a href=""><img style="width: 40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="" /></a>
-<img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="" />
-<img style="width: 35px" src="https://img.icons8.com/?size=48&id=63785&format=png" alt="" />
-<img style="width: 35px" src="https://img.icons8.com/?size=48&id=04OFrkjznvcd&format=png" alt="" />
-<img style="width: 35px" src="https://img.icons8.com/?size=48&id=61466&format=png" alt="" />
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:15%;" src="https://avatars.githubusercontent.com/u/94332377?v=4">
-  
+  <a href=""><img style="width: 40px; margin-right: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code Icon" /></a>
+  <img style="width: 35px; margin-right: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma Icon" />
+  <img style="width: 35px; margin-right: 8px;" src="https://img.icons8.com/?size=48&id=63785&format=png" alt="HTML Icon" />
+  <img style="width: 35px; margin-right: 8px;" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS Icon" />
+  <img style="width: 35px; margin-right: 8px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript Icon" />
+  <img style="width: 35px; margin-right: 8px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" alt="Node.js Icon" />
+  <img style="width: 35px; margin-right: 8px;" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="Git Icon" />
+  <img style="width: 35px; margin-right: 8px;" src="https://img.icons8.com/?size=256&id=l9a5tcSnBwcf&format=png" alt="Angular Icon" />
+  <img align="right" alt="Luan's picture" height="150" style="border-radius:15%;" src="https://avatars.githubusercontent.com/u/94332377?v=4">
 </div>
 
-<h4> Não esqueca de seguir em todas as redes sociais para ficar por dentro de todos os conteudos!<h4></br>
+<h4> Entre em contato comigo!!<h4></br>
       
       
 <div> 
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/luanmachado.j" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/luanmach4do" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:machado.luandealmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-de-almeida-machado-9789721b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/seunumerodetelefone" target="_blank">
+  <img src="https://img.shields.io/badge/-Whatsapp-%FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
+</a>
   
 </div>
